@@ -1,5 +1,5 @@
 {
-  "fingerprint": "e48381b340cc02d738f24d6ef8dfe96f8d370a1a25ea2875c510fa70d0412c90",
+  "fingerprint": "3ea56f34e2797313f5d175ac1b13d8dd1feab528332a51a1abc584917bed66a7",
   "source": "local:anvil@2k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -9,7 +9,7 @@
   "files": [
     {
       "path": "2048/model.glb",
-      "sha256": "fe6a958215214d837f48b9af2745d3fcabded2d4532d943202ac5d032c3f8bca"
+      "sha256": "f643803d6561b7cc29f0ae0cabf0c151f3cd45f904e22623dc512c775f118083"
     }
   ]
 }

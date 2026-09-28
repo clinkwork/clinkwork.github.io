@@ -1,5 +1,5 @@
 {
-  "fingerprint": "9a4cd00e70a171efb48a4f8d9722a88650ec0c85b5d5fe4258a384472d69bc95",
+  "fingerprint": "d5add1cd42c4ef8516fde74ebad1f78b50b298e547f913f49a0e9f14bb17dc0c",
   "source": "local:village-scenery@2k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -8,8 +8,8 @@
   },
   "files": [
     {
-      "path": "2048/model.glb",
-      "sha256": "d336c7e0d5988dffc3250c967c8af8ce067e8c98cff09ca80b213eeef022f68f"
+      "path": "512/model.glb",
+      "sha256": "702085e3eb0aa4a13731a0f1f1bdff5d4f0863cf82504520b97662242e80d483"
     }
   ]
 }

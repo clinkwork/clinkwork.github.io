@@ -1,5 +1,5 @@
 {
-  "fingerprint": "c7da8c3b9785f77275cd263cdb34179a64dbf4923c5974be6b3143083c877499",
+  "fingerprint": "15c0f9b49023cfdbf2e89dd039342c95da65f4a37cec827d35b653cd7e0dc315",
   "source": "polyhaven:black_walnut_veneer_02@1k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -17,14 +17,6 @@
     {
       "path": "1024/roughness.ktx2",
       "sha256": "51cf0eda9d16becabd31759b44580779be4e91de78afb796190609196a1b0593"
-    },
-    {
-      "path": "1024/ao.ktx2",
-      "sha256": "531e8bf5c358300b9cecba76c46c48881b9a5273784a4c839f1b14c641d8568b"
-    },
-    {
-      "path": "1024/displacement.ktx2",
-      "sha256": "437a19e17b0fb93ad6a1d4df58cea03d52722719515e942a47b44bb9e3aeb4cb"
     }
   ]
 }

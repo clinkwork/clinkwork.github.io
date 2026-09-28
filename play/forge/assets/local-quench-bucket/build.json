@@ -1,5 +1,5 @@
 {
-  "fingerprint": "6f181262eef4e0dca8986489cc8ce77d962717d430ca7d256f93d8b0fb42208c",
+  "fingerprint": "b569ca1f89274028a2a846a9cededa1c909040385077985a2e8c821697c83f85",
   "source": "local:quench-bucket@1k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -9,7 +9,7 @@
   "files": [
     {
       "path": "512/model.glb",
-      "sha256": "a63c814b11a51eb323d8ff5dd52b70d57596a062e29b89f60519040ee8021d03"
+      "sha256": "adba8d7fe4ce75f0349c47424147cf686c382a46421801622b41e9d7b88f5dbc"
     }
   ]
 }

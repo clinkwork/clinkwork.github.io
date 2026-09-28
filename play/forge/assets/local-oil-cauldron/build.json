@@ -1,5 +1,5 @@
 {
-  "fingerprint": "0d45c09923779883d8b47b42dc8ea851d1fa83281372e628c2fbaa6752d682aa",
+  "fingerprint": "5784c26e32c3fbc7dcbc7fbdd98a657f629f2c0d360676357ac2daa2befb44a0",
   "source": "local:oil-cauldron@2k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -8,8 +8,8 @@
   },
   "files": [
     {
-      "path": "2048/model.glb",
-      "sha256": "b1c2323c4da7b02e9d38e48a7750d53323548b5f8030fbb1410ec78ffc96a084"
+      "path": "1024/model.glb",
+      "sha256": "8a343afdc66c54eeb5890fcfe302c604258fd3deeb976b94c149dfd3e5870020"
     }
   ]
 }

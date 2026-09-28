@@ -1,5 +1,5 @@
 {
-  "fingerprint": "01100ecb84409cfe7c69e7395f064a8c467be3f4bf6b3e18e71bacf9becd9cdb",
+  "fingerprint": "9592573e0e6f102636b3f352e9aa9334946b2b239021f11d1969b2062c636f4f",
   "source": "local:bellows@1k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -8,8 +8,8 @@
   },
   "files": [
     {
-      "path": "1024/model.glb",
-      "sha256": "e3dd86918c5f9082048744f7c27160aaa2145c476903131f61fa5cb3b861dab2"
+      "path": "512/model.glb",
+      "sha256": "181504d89157fe63cd18be3292944d9b9bf39cec0c327a8522e8ce0ba0ae50a9"
     }
   ]
 }

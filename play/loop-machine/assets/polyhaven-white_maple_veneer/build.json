@@ -1,5 +1,5 @@
 {
-  "fingerprint": "221edbabe56aaa365c8d672a315f4f02f9514c51bb78147f6624d6b7707d1d9c",
+  "fingerprint": "c72bb1549e078b9357cb192003c2792297f0958fc7faff105a99cf6dec77d648",
   "source": "polyhaven:white_maple_veneer@1k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -17,14 +17,6 @@
     {
       "path": "1024/roughness.ktx2",
       "sha256": "10359067ed18d48f3e02debff4bd159938d5dfd56bf7a03fcf3a746367776559"
-    },
-    {
-      "path": "1024/ao.ktx2",
-      "sha256": "98ac92d9ba77f91f4a22c3d10d9723d34c23dc476e47c5f11a8f13b2f3f24c03"
-    },
-    {
-      "path": "1024/displacement.ktx2",
-      "sha256": "c82159d3740a6006dbe9e4db22428f36f3d8e4a71968d7fd15f85bbcc9518b01"
     }
   ]
 }

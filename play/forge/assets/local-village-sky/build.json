@@ -1,5 +1,5 @@
 {
-  "fingerprint": "b61e34118a9facbb9c010c52b0c99205c524e0b59253781133161c1bad99e5bc",
+  "fingerprint": "ce995946538d1a355b83f21c3ee3ce27a439f1c39fda73496dfab19c24bbce19",
   "source": "local:village-sky@1k",
   "versions": {
     "ktx": "ktx version: v4.4.2",
@@ -8,8 +8,8 @@
   },
   "files": [
     {
-      "path": "1024/model.glb",
-      "sha256": "a1aa56e3d1dd1ba0ea7eb4f780d7cce9857788e3757e9b16dcf7e27f58c3967b"
+      "path": "512/model.glb",
+      "sha256": "3b8b9107f1bd5ed77154c418f7eb9542014d33901d57cd6678e44fa2d019a911"
     }
   ]
 }
