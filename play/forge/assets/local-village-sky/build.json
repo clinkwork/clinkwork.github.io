@@ -1,0 +1,15 @@
+{
+  "fingerprint": "b61e34118a9facbb9c010c52b0c99205c524e0b59253781133161c1bad99e5bc",
+  "source": "local:village-sky@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "1024/model.glb",
+      "sha256": "a1aa56e3d1dd1ba0ea7eb4f780d7cce9857788e3757e9b16dcf7e27f58c3967b"
+    }
+  ]
+}

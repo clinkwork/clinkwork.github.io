@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Metal024",
+    "pageUrl": "https://ambientcg.com/a/Metal024",
+    "authors": ["Lennart Demes / ambientCG"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://docs.ambientcg.com/license/"
+  },
+  {
+    "id": "cross_pein_hammer",
+    "pageUrl": "https://polyhaven.com/a/cross_pein_hammer",
+    "authors": ["Tics"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://polyhaven.com/license"
+  },
+  {
+    "id": "studio_small_09",
+    "pageUrl": "https://polyhaven.com/a/studio_small_09",
+    "authors": ["Sergej Majboroda"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://polyhaven.com/license"
+  },
+  {
+    "id": "apps/forge/public/sounds/strike-hot/strike-hot-01.m4a",
+    "pageUrl": "https://opengameart.org/content/68-workshop-sounds",
+    "authors": ["bart"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "apps/forge/public/sounds/strike-cold/strike-cold-01.m4a",
+    "pageUrl": "https://bigsoundbank.com/anvil-2-s3590.html",
+    "authors": ["Pablo BERGEL"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/anvil-ring/anvil-ring-01.m4a",
+    "pageUrl": "https://bigsoundbank.com/anvil-1-s3589.html",
+    "authors": ["Pablo BERGEL"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/forge-roar/forge-roar-01.m4a",
+    "pageUrl": "tools/sounds/synth/render.mjs",
+    "authors": ["Craft Toys project / original agent-authored synthesis"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "apps/forge/public/sounds/forge-idle/forge-idle-01.m4a",
+    "pageUrl": "https://opengameart.org/content/fire-crackling",
+    "authors": ["AntumDeluge"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "apps/forge/public/sounds/quench-oil/quench-oil-01.m4a",
+    "pageUrl": "https://bigsoundbank.com/quenching-cooling-1-s1694.html",
+    "authors": ["Joseph SARDIN"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/quench-oil/quench-oil-02.m4a",
+    "pageUrl": "https://bigsoundbank.com/quenching-cooling-2-s1695.html",
+    "authors": ["Joseph SARDIN"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/quench-oil/quench-oil-03.m4a",
+    "pageUrl": "https://bigsoundbank.com/quenching-cooling-3-s1696.html",
+    "authors": ["Joseph SARDIN"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/quench-oil/quench-oil-04.m4a",
+    "pageUrl": "https://bigsoundbank.com/quenching-cooling-4-s1697.html",
+    "authors": ["Joseph SARDIN"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/wire-brush/wire-brush-01.m4a",
+    "pageUrl": "https://bigsoundbank.com/brush-s1961.html",
+    "authors": ["Joseph SARDIN"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://bigsoundbank.com/licenses.html"
+  },
+  {
+    "id": "apps/forge/public/sounds/ui-tap/ui-tap-01.m4a",
+    "pageUrl": "https://opengameart.org/content/fantasy-accessory-sfx-library",
+    "authors": ["Jan Schupke / Vehicle"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "Metal007",
+    "pageUrl": "https://ambientcg.com/a/Metal007",
+    "authors": ["Lennart Demes / ambientCG"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://docs.ambientcg.com/license/"
+  },
+  {
+    "id": "black_walnut_veneer_02",
+    "pageUrl": "https://polyhaven.com/a/black_walnut_veneer_02",
+    "authors": ["Jenelle van Heerden"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://polyhaven.com/license"
+  },
+  {
+    "id": "white_maple_veneer",
+    "pageUrl": "https://polyhaven.com/a/white_maple_veneer",
+    "authors": ["Jenelle van Heerden"],
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://polyhaven.com/license"
+  },
+  {
+    "id": "gallery-fittings",
+    "pageUrl": "project:tools/blender/loop-machine/fittings.py",
+    "authors": ["Craft Toys project / original procedural Blender authoring"],
+    "licence": "LicenseRef-Project-Owned",
+    "licenceUrl": "project:assets/src/loop-machine/gallery-provenance.json"
+  },
+  {
+    "id": "gallery-studio",
+    "pageUrl": "project:tools/blender/loop-machine/studio.py",
+    "authors": ["Craft Toys project / original procedural Blender authoring"],
+    "licence": "LicenseRef-Project-Owned",
+    "licenceUrl": "project:assets/src/loop-machine/gallery-provenance.json"
+  },
+  {
+    "id": "plinth-grounding",
+    "pageUrl": "project:tools/blender/loop-machine/grounding.py",
+    "authors": ["Craft Toys project / original procedural Blender authoring"],
+    "licence": "LicenseRef-Project-Owned",
+    "licenceUrl": "project:assets/src/loop-machine/gallery-provenance.json"
+  }
+]

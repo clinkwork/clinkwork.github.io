@@ -1,0 +1,16 @@
+{
+  "fingerprint": "dfc71934d9ad85579f36a648065aae0298929c0b1840fd28c6570304b7298310",
+  "source": "local:plinth@1k",
+  "materialLibrary": "local:loop-materials@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "1024/model.glb",
+      "sha256": "8747a77f847beb20a483efd6a8956f2c7f28fad7e3d4376bd1d5e0e84fc15e14"
+    }
+  ]
+}

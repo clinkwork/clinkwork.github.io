@@ -1,0 +1,14 @@
+{
+  "fingerprint": "91b36e1432fc63672bed1a04a9cfeff433884b9bf15768ee62ebc5948bf33c3f",
+  "source": "local:gallery-studio@2k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org"
+  },
+  "files": [
+    {
+      "path": "2048/environment.hdr",
+      "sha256": "55d15c95ee1114035be11037273755c74edc2facc1bf4ea963dddb2b688609ca"
+    }
+  ]
+}

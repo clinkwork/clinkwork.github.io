@@ -1,0 +1,15 @@
+{
+  "fingerprint": "b1383c72ef8ed1fde9e727e2a51f7f8e566bcb5f5eebf67f1580312a47368179",
+  "source": "local:charcoal-bed@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "1024/model.glb",
+      "sha256": "ae9c504717ae4e8d87b69e7daa0df2749b7056066823ee7e135ee9dfbfdcbf6a"
+    }
+  ]
+}

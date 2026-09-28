@@ -1,0 +1,15 @@
+{
+  "fingerprint": "9a4cd00e70a171efb48a4f8d9722a88650ec0c85b5d5fe4258a384472d69bc95",
+  "source": "local:village-scenery@2k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "2048/model.glb",
+      "sha256": "d336c7e0d5988dffc3250c967c8af8ce067e8c98cff09ca80b213eeef022f68f"
+    }
+  ]
+}

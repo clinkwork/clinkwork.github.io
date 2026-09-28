@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /play/
+Sitemap: https://clinkwork.github.io/sitemap.xml

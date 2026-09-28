@@ -1,0 +1,15 @@
+{
+  "fingerprint": "0d45c09923779883d8b47b42dc8ea851d1fa83281372e628c2fbaa6752d682aa",
+  "source": "local:oil-cauldron@2k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "2048/model.glb",
+      "sha256": "b1c2323c4da7b02e9d38e48a7750d53323548b5f8030fbb1410ec78ffc96a084"
+    }
+  ]
+}

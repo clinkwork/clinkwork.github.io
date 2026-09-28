@@ -1,0 +1,30 @@
+{
+  "fingerprint": "221edbabe56aaa365c8d672a315f4f02f9514c51bb78147f6624d6b7707d1d9c",
+  "source": "polyhaven:white_maple_veneer@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org"
+  },
+  "files": [
+    {
+      "path": "1024/colour.ktx2",
+      "sha256": "354669f41c6470528558e5163a465e30a602509afcb90f8f9d18d90ff7db959b"
+    },
+    {
+      "path": "1024/normal.ktx2",
+      "sha256": "c737bb830585f0b723a3e430ab076ade4e24ab1f8161de2bb24738190217fe05"
+    },
+    {
+      "path": "1024/roughness.ktx2",
+      "sha256": "10359067ed18d48f3e02debff4bd159938d5dfd56bf7a03fcf3a746367776559"
+    },
+    {
+      "path": "1024/ao.ktx2",
+      "sha256": "98ac92d9ba77f91f4a22c3d10d9723d34c23dc476e47c5f11a8f13b2f3f24c03"
+    },
+    {
+      "path": "1024/displacement.ktx2",
+      "sha256": "c82159d3740a6006dbe9e4db22428f36f3d8e4a71968d7fd15f85bbcc9518b01"
+    }
+  ]
+}

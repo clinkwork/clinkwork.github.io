@@ -1,0 +1,26 @@
+{
+  "description": "Actual development captures, not final shipped art. No generated replacement scene.",
+  "forge": {
+    "sourceWorktree": "vsa-forged17",
+    "sourceCommit": "654ccb5",
+    "sourceFile": "../vsa-forged17/.codex-runs/2026-09-27_195433_forge-d17-hero-assets/round-3/final-verify/wide-390x844@2x.png",
+    "sourceSha256": "ad92901804eda50d3b848c04ce6500e523cc633329cae3354c7add7e5076e523",
+    "sourceSize": [780, 1688],
+    "crop": [0, 180, 780, 1340],
+    "pageFiles": ["forge-390.webp", "forge-780.webp"],
+    "socialFile": "og-forge.jpg",
+    "licenseManifest": "forge-source-licenses.json",
+    "review": "Round 3: close on light, grade and composition; asset realism still under review. Same crop is used for hero, card and workbench."
+  },
+  "loop": {
+    "sourceBase": "94c60ab",
+    "sourceFile": ".codex-runs/2026-09-27_111917_site-v1/loop-gallery.png",
+    "sourceSha256": "8b1489a26672414fff902233538239ba6f4cafbda33dc13025dcb53e74b312c6",
+    "url": "?t=3&paused=1&seed=17",
+    "viewport": [1200, 1200],
+    "hiddenHtmlControls": ["lb-root", "cu-root"],
+    "pageFiles": ["loop-800.webp", "loop-1200.webp"],
+    "socialFile": "og-loop.jpg",
+    "licenseManifest": "loop-source-licenses.json"
+  }
+}

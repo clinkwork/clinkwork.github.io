@@ -1,0 +1,47 @@
+[
+  {
+    "asset": "oil-cauldron",
+    "author": "The Hunt Museum",
+    "sourceUrl": "https://sketchfab.com/3d-models/ballyscullion-bronze-cauldron-efe46979bbb647f2941a533d4df7e04a",
+    "licence": "CC0-1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "\"Ballyscullion Bronze Cauldron\" by The Hunt Museum (https://sketchfab.com/TheHuntMuseum), https://sketchfab.com/3d-models/ballyscullion-bronze-cauldron-efe46979bbb647f2941a533d4df7e04a, licensed under CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/).",
+    "changes": "Adapted for Forge: cleanup, rescaling, decimation, UV projection and colour/normal/AO/ORM bakes; bellows rigged and duplicated; hammer head and label replaced; cauldron feet and lid are reconstruction."
+  },
+  {
+    "asset": "bellows",
+    "author": "3d_designer_2020",
+    "sourceUrl": "https://sketchfab.com/3d-models/blacksmiths-bellows-ce10080d6b9b43b191d43dd5eb4b1fa1",
+    "licence": "CC-BY-4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "\"BlackSmiths Bellows\" by 3d_designer_2020 (https://sketchfab.com/3d_designet_2020), https://sketchfab.com/3d-models/blacksmiths-bellows-ce10080d6b9b43b191d43dd5eb4b1fa1, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/).",
+    "changes": "Adapted for Forge: cleanup, rescaling, decimation, UV projection and colour/normal/AO/ORM bakes; bellows rigged and duplicated; hammer head and label replaced; cauldron feet and lid are reconstruction."
+  },
+  {
+    "asset": "hammer",
+    "author": "Reality_3D",
+    "sourceUrl": "https://sketchfab.com/3d-models/hammer-c599ee811de54e99b0b4131cfe4dad7c",
+    "licence": "CC-BY-4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "\"Hammer\" by Reality_3D (https://sketchfab.com/Sbell_Reality3D), https://sketchfab.com/3d-models/hammer-c599ee811de54e99b0b4131cfe4dad7c, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/).",
+    "changes": "Adapted for Forge: cleanup, rescaling, decimation, UV projection and colour/normal/AO/ORM bakes; bellows rigged and duplicated; hammer head and label replaced; cauldron feet and lid are reconstruction."
+  },
+  {
+    "asset": "anvil",
+    "author": "pomiary.inzynierskie",
+    "sourceUrl": "https://sketchfab.com/3d-models/old-anvil-709ee604d04545d8ab867c1e3f427bf6",
+    "licence": "CC-BY-4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "\"Old Anvil\" by pomiary.inzynierskie (https://sketchfab.com/pomiary.inzynierskie), https://sketchfab.com/3d-models/old-anvil-709ee604d04545d8ab867c1e3f427bf6, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/).",
+    "changes": "Adapted for Forge: cleanup, rescaling, decimation, UV projection and colour/normal/AO/ORM bakes; bellows rigged and duplicated; hammer head and label replaced; cauldron feet and lid are reconstruction."
+  },
+  {
+    "asset": "quench-bucket",
+    "author": "pacoco",
+    "sourceUrl": "https://sketchfab.com/3d-models/photoscan-dueppel-bucket-205046e36d454fb9a1599bf7e36c956b",
+    "licence": "CC-BY-4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "\"[Photoscan] Dueppel Bucket\" by pacoco (https://sketchfab.com/pacocoart), https://sketchfab.com/3d-models/photoscan-dueppel-bucket-205046e36d454fb9a1599bf7e36c956b, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/).",
+    "changes": "Adapted for Forge: cleanup, rescaling, decimation, UV projection and colour/normal/AO/ORM bakes; bellows rigged and duplicated; hammer head and label replaced; cauldron feet and lid are reconstruction."
+  }
+]

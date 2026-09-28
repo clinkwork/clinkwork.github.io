@@ -1,0 +1,16 @@
+{
+  "fingerprint": "2ff3c2b869e68766a556619ddd58a5bd0c7b616341de2e01a8cccf2be2636a9b",
+  "source": "local:bell-shell-01@1k",
+  "materialLibrary": "local:loop-materials@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "1024/model.glb",
+      "sha256": "839e9f8a971fa32790dae2be0c87715400b22b1651a36f6a00fe3fbc9c8c531d"
+    }
+  ]
+}

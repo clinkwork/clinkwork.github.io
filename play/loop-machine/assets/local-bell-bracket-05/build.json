@@ -1,0 +1,16 @@
+{
+  "fingerprint": "b4c3a9ade516b67b2bce179c3bed281d15fef9ebaf897dd1914fb4a9a72414a2",
+  "source": "local:bell-bracket-05@1k",
+  "materialLibrary": "local:loop-materials@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org",
+    "gltf": "4.5.0"
+  },
+  "files": [
+    {
+      "path": "1024/model.glb",
+      "sha256": "7f7e24bba10e6f5dcb21e101bf8ee8e6c2e2f485a17c1295c3b59e87a5aaed4e"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "fingerprint": "6d9b657343343f11e9ca02b4bd3ec4c4ddf6ff211d4c9c4f0cbfc85673659636",
+  "source": "ambientcg:Metal007@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org"
+  },
+  "files": [
+    {
+      "path": "1024/colour.ktx2",
+      "sha256": "e4fdc86fa904aeaff948b50193c0ff9e145f56c5fa108c327ab76546eb8b3633"
+    },
+    {
+      "path": "1024/displacement.ktx2",
+      "sha256": "d53e7c16d9bd9a99451a8fa97dd66be83a1c6613130ebfa7355b1031d14d5ad5"
+    },
+    {
+      "path": "1024/metalness.ktx2",
+      "sha256": "a8bebaa1fd35677bf91814088a667dd5b178529fc5d645fd298d4a8f30388cfb"
+    },
+    {
+      "path": "1024/normal.ktx2",
+      "sha256": "a86680942314b6f00135a5e5ab941e2a2e2940cd25ce63e50985adf2cbb23722"
+    },
+    {
+      "path": "1024/roughness.ktx2",
+      "sha256": "f2b11ac63333f656ce58b949bd4a12b9783f35772c5d78055e900a67c2183f80"
+    }
+  ]
+}

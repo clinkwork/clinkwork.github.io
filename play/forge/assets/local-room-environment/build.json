@@ -1,0 +1,14 @@
+{
+  "fingerprint": "22962d8d5629481aaa91693304f0f6f80bb1142377c6a9343fab57cfd3bcc878",
+  "source": "local:room-environment@1k",
+  "versions": {
+    "ktx": "ktx version: v4.4.2",
+    "magick": "Version: ImageMagick 7.1.2-25 Q16-HDRI aarch64 037e46295:20260604 https://imagemagick.org"
+  },
+  "files": [
+    {
+      "path": "1024/environment.hdr",
+      "sha256": "0535b8a23bbd7ae2c2d07d6fddb337b129e84d168decaf42fff6b4ad28b39274"
+    }
+  ]
+}
