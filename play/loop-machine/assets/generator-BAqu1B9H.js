@@ -1,1 +1,0 @@
-import{c as e}from"./generator-BPi2RWd1.js";export{e as generateDaily};
