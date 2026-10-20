@@ -1,8 +1,8 @@
-Forge 1.0 — third-party notices
+Glowstruck 1.0 — third-party notices
 
 MODELS
 
-"BlackSmiths Bellows" by 3d_designer_2020 (https://sketchfab.com/3d_designet_2020), https://sketchfab.com/3d-models/blacksmiths-bellows-ce10080d6b9b43b191d43dd5eb4b1fa1, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Forge: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; rigged and duplicated.
+"BlackSmiths Bellows" by 3d_designer_2020 (https://sketchfab.com/3d_designet_2020), https://sketchfab.com/3d-models/blacksmiths-bellows-ce10080d6b9b43b191d43dd5eb4b1fa1, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Glowstruck: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; rigged and duplicated.
 
 Plastered Wall 02 — Charlotte Baglioni
 https://polyhaven.com/a/plastered_wall_02
@@ -76,11 +76,11 @@ Metal038 — Lennart Demes / ambientCG
 https://ambientcg.com/a/Metal038
 CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
-"[Photoscan] Dueppel Bucket" by pacoco (https://sketchfab.com/pacocoart), https://sketchfab.com/3d-models/photoscan-dueppel-bucket-205046e36d454fb9a1599bf7e36c956b, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Forge: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked.
+"[Photoscan] Dueppel Bucket" by pacoco (https://sketchfab.com/pacocoart), https://sketchfab.com/3d-models/photoscan-dueppel-bucket-205046e36d454fb9a1599bf7e36c956b, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Glowstruck: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked.
 
-"Old Anvil" by pomiary.inzynierskie (https://sketchfab.com/pomiary.inzynierskie), https://sketchfab.com/3d-models/old-anvil-709ee604d04545d8ab867c1e3f427bf6, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Forge: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; surface textures subsequently rebaked.
+"Old Anvil" by pomiary.inzynierskie (https://sketchfab.com/pomiary.inzynierskie), https://sketchfab.com/3d-models/old-anvil-709ee604d04545d8ab867c1e3f427bf6, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Glowstruck: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; surface textures subsequently rebaked.
 
-"Hammer" by Reality_3D (https://sketchfab.com/Sbell_Reality3D), https://sketchfab.com/3d-models/hammer-c599ee811de54e99b0b4131cfe4dad7c, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Forge: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; original head and label replaced; surface maps rebaked and CC0 ash veneer applied.
+"Hammer" by Reality_3D (https://sketchfab.com/Sbell_Reality3D), https://sketchfab.com/3d-models/hammer-c599ee811de54e99b0b4131cfe4dad7c, licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Adapted for Glowstruck: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; original head and label replaced; surface maps rebaked and CC0 ash veneer applied.
 
 Bark Brown 01 — Rob Tuytel
 https://polyhaven.com/a/bark_brown_01
@@ -95,7 +95,7 @@ https://polyhaven.com/a/thatch_roof_angled
 CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
 "Ballyscullion Bronze Cauldron" by The Hunt Museum (https://sketchfab.com/TheHuntMuseum), https://sketchfab.com/3d-models/ballyscullion-bronze-cauldron-efe46979bbb647f2941a533d4df7e04a, licensed under CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
-Adapted for Forge: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; feet and lid reconstructed.
+Adapted for Glowstruck: cleaned, rescaled and decimated; UVs projected and colour, normal, AO and ORM maps baked; feet and lid reconstructed.
 
 SOUNDS
 
